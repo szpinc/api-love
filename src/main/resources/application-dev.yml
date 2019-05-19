@@ -4,16 +4,12 @@ spring:
     username: root
     password: 123456
     driver-class-name: com.mysql.jdbc.Driver
-  jpa:
-    hibernate:
-      ddl-auto: update
-    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
 
 wx:
   miniapp:
     configs:
-      - appid: wx7facf6fca0a9d72e
-        secret: 533e964c61defd36e819745df2a6dc7f
-        token: szpinc
-        aesKey: 2yXlcoMtHPuHuqK9iOGAwLM8upQLbDtGimHs746efeL
+      - appid: # 自己的appid
+        secret: # 自己的微信secret
+        token: # 自己的消息推送token
+        aesKey: # 自己的消息推送aesKey
         msgDataFormat: JSON
