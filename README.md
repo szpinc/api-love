@@ -7,5 +7,5 @@
 - API可配置化
 - 多用户
 
-小程序端源码: [](https://github.com/szpinc/invitation-miniapp)
+小程序端源码: [https://github.com/szpinc/invitation-miniapp](https://github.com/szpinc/invitation-miniapp)
 
